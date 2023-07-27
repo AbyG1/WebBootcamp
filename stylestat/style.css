@@ -1,0 +1,27 @@
+body{
+    
+    font-family: 'Special Elite', cursive;
+    background:black;
+    color:#e0e1dd;
+    margin: 100px;
+}
+
+h1,h2{
+    text-align:center;
+    font-size: 50px;
+}
+.section{
+    display: flex;
+    justify-content:space-evenly;
+    height: 200px;
+    flex-wrap: wrap;
+    gap:10px; 
+}
+
+.sub-section{
+    flex: 1;
+    background-color:#343a40;
+    border: 1px solid white;
+    text-shadow: 0 0 20px black;
+    padding:15px;
+}
