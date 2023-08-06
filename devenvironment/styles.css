@@ -34,12 +34,11 @@ body{
 .navbar ul li:hover{
     text-decoration: underline;
     cursor: pointer;
+    color:#cb9f30;
+    
 }
 
 
-.border {
-    border: 2px solid red;
-}
 
 .main {
     display: flex;
